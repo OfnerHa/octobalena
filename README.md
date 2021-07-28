@@ -81,7 +81,7 @@ Octolapse                             |  v0.4.1
 OctoPrint-OctoVox                     |  v0.1.6
 MarlinGcodeDocumentation              |  v0.12.0
 OctoPrint-Mattacloud                  |  v0.1.1
-
+Exclude Region                        |  v0.3.0
 
 ## Attribution
 

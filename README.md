@@ -74,8 +74,6 @@ OctoPrint-MQTT                        |  v0.8.10
 OctoPrint-FilamentManager             |  v1.8.0
 OctoPrint-PrintTimeGenius             |  v2.2.8
 OctoPrint-UltimakerFormatPackage      |  v0.2.1
-OctoPrint-Enclosure                   |  v4.12
-OctoPrint-BLTouch                     |  v0.3.4
 OctoPrint-BedLevelVisualizer          |  v1.0.1
 Octolapse                             |  v0.4.1
 OctoPrint-OctoVox                     |  v0.1.6
